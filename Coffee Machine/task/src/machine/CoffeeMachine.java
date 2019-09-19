@@ -14,5 +14,6 @@ public class CoffeeMachine {
         System.out.println("Coffee is ready!");
         System.out.println("Test 2");
         System.out.println("This is a change test345");
+        System.out.println("This quite ready");
     }
 }
