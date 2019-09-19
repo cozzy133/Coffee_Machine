@@ -13,5 +13,6 @@ public class CoffeeMachine {
         System.out.println("Pouring some milk into the cup");
         System.out.println("Coffee is ready!");
         System.out.println("Test 2");
+        System.out.println("This is a change");
     }
 }
